@@ -1,4 +1,4 @@
-<img width="1012" height="501" alt="Screenshot 2026-10-26 173616" src="https://github.com/user-attachments/assets/36e57cee-77e7-45c3-af57-58f923e75235" /># Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+Linux-and-Install-Sleuth-Kit
 ### Name:MARY AKSHARA S
 ### Reg No:212225230169
 ## AIM:
