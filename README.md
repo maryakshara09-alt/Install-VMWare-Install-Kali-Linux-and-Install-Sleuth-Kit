@@ -1,4 +1,4 @@
-# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+<img width="1012" height="501" alt="Screenshot 2026-10-26 173616" src="https://github.com/user-attachments/assets/36e57cee-77e7-45c3-af57-58f923e75235" /># Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 ### Name:MARY AKSHARA S
 ### Reg No:212225230169
 ## AIM:
@@ -44,17 +44,17 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 ## OUTPUT:
 **VIRTUAL BOX:**
+<img width="1038" height="553" alt="Screenshot 2026-10-26 173631" src="https://github.com/user-attachments/assets/6ab3a94b-deb4-4765-8d3c-6c923723a944" />
 
-![Uploading Screenshot 2026-10-26 173616.png…]()
+
 
 **KALI LINUX:**
 
+<img width="1012" height="501" alt="Screenshot 2026-10-26 173616" src="https://github.com/user-attachments/assets/e29125ab-6c77-4181-b2bc-f6038b5cdda0" />
 
-![Uploading Screenshot 2026-10-26 173616.png…]()
 
 **SLEUTH-KIT:**
-
-![Uploading Screenshot 2026-10-26 173646.png…]()
+<img width="1015" height="490" alt="Screenshot 2026-10-26 173646" src="https://github.com/user-attachments/assets/0fdf2167-07f7-44fc-953b-b877f0be2706" />
 
 
 ## RESULT:
